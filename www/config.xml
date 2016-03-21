@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.themaxtech.schoolaccess" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>School Access</name>
+<widget id="com.themaxtech.stantony" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>St Antony</name>
     <description>
-      Welcome to School Access
+      Welcome to St. Antony's Public School
     </description>
     <author email="maxtechapps@gmail.com" href="http://themaxtech.com">
         ARUN G
